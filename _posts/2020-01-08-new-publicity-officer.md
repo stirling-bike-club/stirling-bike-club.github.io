@@ -7,10 +7,9 @@ Hello Everyone! Hope you enjoyed the festive season.
 
 Welcome to the new Stirling Bike Club blog. In case you missed the AGM
 in November, I (Andy Chambers) am the new publicity officer. And this
-is the first post on our new blog. Since I still consider myself to be
-relatively new to the the club, I hope you won’t mind me using the first
-post to introduce myself to those who might not have met me out on the
-road yet.
+is the first post on our new blog. Since I'm relatively new to the the
+club, please allow me to introduce myself to those of you who might not
+have met me out on the road yet.
 
 ![Andy Selfie](https://avatars3.githubusercontent.com/u/48030?s=250)
 
@@ -19,7 +18,7 @@ a beautifully sunny day, I rode out towards Dollar on a crusty old
 hybrid that had been sitting unused for years in storage. I continued
 on past Dollar to Glen Devon, admired the view while I free-wheeled
 down to the roundabout before Gleneagles, and then struggled slowly up
-Sherrifmuir and just about rolled back home from there. That was the day [I
+Sheriffmuir and just about rolled back home from there. That was the day [I
 caught the cycling bug](https://www.strava.com/activities/1626983093).
 
 After that, I went out on a few more rides myself before discovering
@@ -36,8 +35,8 @@ spring (2019).
 
 By the end of summer 2019, I’d invested in a proper road bike, tried
 my hand at the club confined TT, toiled on the chain-gang, enjoyed a
-rainy away day in Cowal and bacame friends with a fantastic bunch of
-people. And by this time I was whizzing up Sherrifmuir and finding it
+rainy away day in Cowal and became friends with a fantastic bunch of
+people. And by this time I was whizzing up Sheriffmuir and finding it
 just as pretty as the first time I rode up it. I suppose this is just
 a long-winded way of saying that I’m hugely grateful to the club and
 the people in it for being such a friendly and supportive
