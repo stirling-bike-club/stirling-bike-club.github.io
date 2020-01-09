@@ -12,7 +12,7 @@ relatively new to the the club, I hope you won’t mind me using the first
 post to introduce myself to those who might not have met me out on the
 road yet.
 
-![Andy Selfie](https://avatars3.githubusercontent.com/u/48030?s=460&v=4)
+![Andy Selfie](https://avatars3.githubusercontent.com/u/48030?s=250)
 
 I got into cycling not long after moving to Stirling two years ago. On
 a beautifully sunny day, I rode out towards Dollar on a crusty old
@@ -48,7 +48,7 @@ all the great things that go on at the club. I’m committed to
 publishing once a quarter and hopefully I’ll manage a bit more than
 that (this one doesn’t count). I’ll keep an eye on the forum and
 Facebook groups but I’m aware that some things in the club are
-organized in other spaces like What’s App so please do let me know
+organized in other spaces like WhatsApp so please do let me know
 what’s going on whether it’s news about races, away days,
 gossip/gripes etc and I’ll incorporate it into the next post.
 
