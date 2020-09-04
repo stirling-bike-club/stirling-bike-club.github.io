@@ -1,15 +1,16 @@
 ---
 layout: post
-title: There's a new publicity officer in town
+title: New Year, New Blog
 ---
 
-Hello Everyone! Hope you enjoyed the festive season.
+Hello Everyone, and a Happy New Year! I hope you all enjoyed the festive
+season.
 
-Welcome to the new Stirling Bike Club blog. In case you missed the AGM
+Welcome to the new Stirling Bike Club Blog. In case you missed the AGM
 in November, I (Andy Chambers) am the new publicity officer. And this
 is the first post on our new blog. Since I'm relatively new to the the
 club, please allow me to introduce myself to those of you who might not
-have met me out on the road yet.
+have met me yet.
 
 ![Andy Selfie](https://avatars3.githubusercontent.com/u/48030?s=250)
 
