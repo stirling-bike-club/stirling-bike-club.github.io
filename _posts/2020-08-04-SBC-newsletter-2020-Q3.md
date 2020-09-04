@@ -1,3 +1,8 @@
+---
+layout: post
+title: SBC Newsletter 2020-Q3
+---
+
 I hope that everyone is well. It's been a difficult few months since
 March when all in-person activities organized by the club were
 "cancelled for the foreseeable future". I think we've been relatively
